@@ -1,1 +1,1 @@
-# FEAsible
+# Feasible
